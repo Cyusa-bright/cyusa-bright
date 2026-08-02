@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Bright Cyusa 👋
 
-<!--
-**Cyusa-bright/cyusa-bright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Development Student  
+🇷🇼 Rwanda  
+🚀 Passionate about Web Development, UI/UX Design and Technology
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software development student learning how to build modern web applications.
+
+Currently improving my skills in:
+
+- Frontend Development
+- Backend Development
+- Database Design
+- UI/UX Design
+
+## 🛠️ Skills
+
+### Programming
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Node.js
+
+### Backend
+- Express.js
+- MySQL
+
+### Design
+- Figma
+- Adobe Photoshop
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 🚀 Projects
+
+### Bwiza Youth Bridge Website
+A website for a youth organization built with modern web technologies.
+
+### Ibyapa Graphic Design Platform
+A platform showcasing graphic design services and creative projects.
+
+## 📚 Currently Learning
+
+- Advanced JavaScript
+- Backend Development
+- APIs
+- AI Tools
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/bright-cyusa-858775384/
