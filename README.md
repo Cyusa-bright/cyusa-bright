@@ -1,5 +1,7 @@
 # Hi, I'm Bright Cyusa 👋
 
+Software Developer | Full Stack Developer | UI/UX Designer
+
 💻 Software Development Student  
 🇷🇼 Rwanda  
 🚀 Passionate about Web Development, UI/UX Design and Technology
@@ -17,21 +19,21 @@ Currently improving my skills in:
 
 ## 🛠️ Skills
 
-### Programming
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Node.js
+### 🛠️ Technologies & Tools
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ### Backend
-- Express.js
-- MySQL
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 ### Design
-- Figma
-- Adobe Photoshop
-
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobephotoshop)
 ### Tools
 - Git
 - GitHub
@@ -55,3 +57,6 @@ A platform showcasing graphic design services and creative projects.
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/bright-cyusa-858775384/
+## 📊 GitHub Stats
+
+![Bright's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyusa-bright&show_icons=true&theme=tokyonight)
